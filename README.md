@@ -2,7 +2,7 @@
 Repository of my class when I  a freshman.
 
 HW1  - 2019-09-09<br>
-HW2  - 2019-09-16
+HW2  - 2019-09-16<br />
 HW3  - 2019-09-23
 HW4  - 2019-09-30
 HW5  - 2019-10-07
