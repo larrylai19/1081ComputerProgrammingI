@@ -1,4 +1,14 @@
 # 1081-Computer-Programming-I
 Repository of my class when I  a freshman.
 
-<font color=#0099ff size=7 face="黑體">color=#0099ff size=72 face="黑體"</font>
+HW1  - 2019-09-09
+HW2  - 2019-09-16
+HW3  - 2019-09-23
+HW4  - 2019-09-30
+HW5  - 2019-10-07
+HW6  - 2019-10-14
+HW7  - 2019-10-21
+HW8  - 2019-11-11
+HW9  - 2019-11-18
+HW10 - 2019-11-25
+HW11 - 2019-12-09
