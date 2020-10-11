@@ -1,4 +1,4 @@
-# 1081-Computer-Programming-I
+# 1081-Computer-Programming-I YzuCse
 Repository of my class when I was a freshman.
 
 HW01 - 2019-09-09<br>
